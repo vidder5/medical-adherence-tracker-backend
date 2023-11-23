@@ -1,2 +1,24 @@
-# medical-adherence-tracker-backend
-Medical adherence tracker is a digital solution to improve medication adherence for chronic patients. The solution should empower healthcare professionals and patients to manage medication regimens effectively.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
